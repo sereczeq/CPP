@@ -1,0 +1,4 @@
+D:\JetBrains\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "D:\Kod\do portfolio\CPP"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Kod/do portfolio/CPP/cmake-build-debug

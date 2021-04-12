@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Kod/do portfolio/CPP/Learning/CustomArray.h
+iostream
+-
+utility
+-
+
+D:/Kod/do portfolio/CPP/Learning/SmartPointer.h
+../print.h
+D:/Kod/do portfolio/CPP/print.h
+
+D:/Kod/do portfolio/CPP/main.cpp
+iostream
+-
+Learning/SmartPointer.h
+D:/Kod/do portfolio/CPP/Learning/SmartPointer.h
+print.h
+D:/Kod/do portfolio/CPP/print.h
+Learning/CustomArray.h
+D:/Kod/do portfolio/CPP/Learning/CustomArray.h
+matrices/Matrix.h
+D:/Kod/do portfolio/CPP/matrices/Matrix.h
+trees/NodeStatic.h
+D:/Kod/do portfolio/CPP/trees/NodeStatic.h
+trees/NodeStatic.cpp
+D:/Kod/do portfolio/CPP/trees/NodeStatic.cpp
+trees/NodeDynamic.h
+D:/Kod/do portfolio/CPP/trees/NodeDynamic.h
+trees/NodeDynamic.cpp
+D:/Kod/do portfolio/CPP/trees/NodeDynamic.cpp
+
+D:/Kod/do portfolio/CPP/matrices/Matrix.h
+iostream
+-
+fstream
+-
+type_traits
+-
+MatrixException.h
+D:/Kod/do portfolio/CPP/matrices/MatrixException.h
+../print.h
+D:/Kod/do portfolio/CPP/print.h
+
+D:/Kod/do portfolio/CPP/matrices/MatrixException.h
+exception
+-
+
+D:/Kod/do portfolio/CPP/print.h
+
+D:/Kod/do portfolio/CPP/trees/NodeDynamic.cpp
+NodeDynamic.h
+D:/Kod/do portfolio/CPP/trees/NodeDynamic.h
+
+D:/Kod/do portfolio/CPP/trees/NodeDynamic.h
+iostream
+-
+vector
+-
+
+D:/Kod/do portfolio/CPP/trees/NodeStatic.cpp
+NodeStatic.h
+D:/Kod/do portfolio/CPP/trees/NodeStatic.h
+
+D:/Kod/do portfolio/CPP/trees/NodeStatic.h
+iostream
+-
+vector
+-
+
